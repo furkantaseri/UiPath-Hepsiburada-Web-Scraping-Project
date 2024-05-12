@@ -3,9 +3,13 @@
 2- Search for the product by typing "Bluetooth Headset" in the search box
 
 3- Filter fields on the left side
+  
   Brand: JBL&Xiaomi&Samsung&Huawei&Apple
+  
   Rating Score: 4 stars and above
+  
   Seller Hepsiburada is filtered as
+  
 
 4- Brand, Product Name, Price and Evaluation Score information of the products (max 50 products) are received
 
